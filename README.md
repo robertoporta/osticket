@@ -25,7 +25,7 @@ This is an example where I solve a ticket in the help desk ticketing system osTi
 - Item 4
 - Item 5
 
-<h2>Installation Steps</h2>
+<h2>Working Ticket and Explanation</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
