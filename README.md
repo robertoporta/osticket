@@ -21,7 +21,7 @@ This is an example where I solve a ticket in the help desk ticketing system osTi
 <h2>Working Ticket and Explanation</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/DJmEXEB.png](https://lcpsorg-my.sharepoint.com/:i:/g/personal/rporta1_lcps_org/Ecr2mg9uA1xBjDGdL0-CQu0Bp1mOjLh3AVBL3RL_AGJW8Q?e=PYCqPZ)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
