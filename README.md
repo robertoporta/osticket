@@ -17,13 +17,6 @@ This is an example where I solve a ticket in the help desk ticketing system osTi
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
 
 <h2>Working Ticket and Explanation</h2>
 
