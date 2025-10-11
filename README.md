@@ -24,7 +24,7 @@ This is an example where I solve a ticket in the help desk ticketing system osTi
 <img width="1596" height="896" alt="Image" src="https://github.com/user-attachments/assets/ef629a9c-6d55-4166-bef1-73d9bda0f60a" />
 </p>
 <p>
-In the ticket section in the agent panel, I can see a new ticket has been submitted by a user.
+-In the ticket section in the agent panel, I can see a new ticket has been submitted by a user.
 </p>
 <br />
 
