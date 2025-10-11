@@ -21,18 +21,18 @@ This is an example where I solve a ticket in the help desk ticketing system osTi
 <h2>Working Ticket and Explanation</h2>
 
 <p>
-<img width="1545" height="867" alt="Image" src="https://github.com/user-attachments/assets/cd46e3bf-3e03-46ae-981d-ab70a398a917" />
+<img width="1596" height="896" alt="Image" src="https://github.com/user-attachments/assets/ef629a9c-6d55-4166-bef1-73d9bda0f60a" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the ticket section in the agent panel, I can see a new ticket has been submitted by a user.
 </p>
 <br />
 
 <p>
-<img src="(https://github.com/robertoporta/robertoporta/blob/98f0581acfd415d0556f170a09c38f8222e2df5f/Screenshot%202025-10-11%20103357.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
