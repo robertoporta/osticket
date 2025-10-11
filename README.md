@@ -21,7 +21,7 @@ This is an example where I solve a ticket in the help desk ticketing system osTi
 <h2>Working Ticket and Explanation</h2>
 
 <p>
-<![image alt](https://github.com/robertoporta/robertoporta/blob/main/Screenshot%202025-10-11%20103357.png?raw=true) height="80%" width="80%" alt="1"/>
+<img width="1545" height="867" alt="Image" src="https://github.com/user-attachments/assets/cd46e3bf-3e03-46ae-981d-ab70a398a917" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
