@@ -29,7 +29,40 @@ This is an example where I solve a ticket in the help desk ticketing system osTi
 <br />
 
 <p>
-![Image](https://github.com/user-attachments/assets/a24fe29f-923a-4b87-9844-e7abd0c2d653)
+<img width="1426" height="802" alt="Image" src="https://github.com/user-attachments/assets/2789f98a-94af-4701-85ea-82d33a1bb949" />
+</p>
+<p>
+-After reading that the issue does not affect productivity, I set the priority level to low.
+</p>
+<br />
+
+</p>
+<p>
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/d6aa2565-afea-4795-8b9c-cba637214b11" />
+</p>
+<br />
+-Similarly, I set the SLA Plan to severity level to C.
+</p>
+<br />
+
+</p>
+<p>
+
+</p>
+<br />
+
+</p>
+<p>
+
+</p>
+<br />
+
+</p>
+<p>
+
+</p>
+<br />
+
 </p>
 <p>
 
