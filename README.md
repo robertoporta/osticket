@@ -38,16 +38,19 @@ This is an example where I solve a ticket in the help desk ticketing system osTi
 
 </p>
 <p>
-<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/d6aa2565-afea-4795-8b9c-cba637214b11" />
+<img width="1427" height="803" alt="Image" src="https://github.com/user-attachments/assets/0aee868f-c73f-4992-a5a0-c7631301b60f" />
 </p>
-<br />
+<p>
 -Similarly, I set the SLA Plan to severity level to C.
 </p>
 <br />
 
 </p>
 <p>
-
+<img width="1426" height="802" alt="Image" src="https://github.com/user-attachments/assets/7dcc89c5-ee42-4c24-9be6-22a6b166e299" />
+</p>
+<p>
+-After making the changes, I reply to the user asking basic questions to gain more information.
 </p>
 <br />
 
