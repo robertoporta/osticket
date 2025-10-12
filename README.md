@@ -3,8 +3,10 @@
 </p>
 
 <h1>osTicket - Solving a Ticket</h1>
-This is an example where I solve a ticket in the help desk ticketing system osTicket.<br />
+This is an example where I solve a ticket in the help desk ticketing system <strong>osTicket</strong>. 
+This simple simulation shows how I handle a user-submitted issue from start to finish, including reviewing the ticket, setting priorities, communicating with the user, and resolving the problem.
 
+</p>
 
 
 <h2>Environments and Technologies Used</h2>
@@ -25,7 +27,7 @@ This is an example where I solve a ticket in the help desk ticketing system osTi
 <img width="1596" height="896" alt="Image" src="https://github.com/user-attachments/assets/ef629a9c-6d55-4166-bef1-73d9bda0f60a" />
 </p>
 <p>
--In the ticket section in the agent panel, I can see a new ticket has been submitted by a user.
+-In the ticket section in the Agent Panel, I can see a new ticket has been submitted by a user.
 </p>
 <br />
 
@@ -65,7 +67,7 @@ This is an example where I solve a ticket in the help desk ticketing system osTi
 <img width="1428" height="803" alt="Image" src="https://github.com/user-attachments/assets/d9596381-fd7b-4796-ac40-7b63e88cf19b" />
 </p>
 <p>
--After the issue is found and the user says he is okay with keeping his system as is, the ticket has come to an end.
+-After identifying and the user says he is okay with keeping his system as is, the ticket has come to an end.
 </p>
 <br />
 
@@ -73,11 +75,6 @@ This is an example where I solve a ticket in the help desk ticketing system osTi
 <img width="1424" height="803" alt="Image" src="https://github.com/user-attachments/assets/379753ec-ffc5-4f94-b913-077550c5b7ff" />
 </p>
 <br />
--To finalize, I change the status of the ticket to resolved and close it.
+-To finalize, I change the status of the ticket to "Resolved' and close it.
 </p>
-<p>
-
-</p>
-<br />
-
 <br />
