@@ -39,7 +39,6 @@ This simple simulation shows how I handle a user-submitted issue from start to f
 </p>
 <br />
 
-</p>
 <p>
 <img width="1127" height="803" alt="Image" src="https://github.com/user-attachments/assets/0aee868f-c73f-4992-a5a0-c7631301b60f" />
 </p>
@@ -74,7 +73,7 @@ This simple simulation shows how I handle a user-submitted issue from start to f
 <p>
 <img width="1124" height="803" alt="Image" src="https://github.com/user-attachments/assets/379753ec-ffc5-4f94-b913-077550c5b7ff" />
 </p>
-<br />
+<p>
 -To finalize, I change the status of the ticket to "Resolved' and close it.
 </p>
 <br />
