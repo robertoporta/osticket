@@ -11,7 +11,7 @@ This simple simulation shows how I handle a user-submitted issue from start to f
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure
 - Remote Desktop
 - Internet Information Services (IIS)
 - osTicket
