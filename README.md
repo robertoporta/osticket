@@ -24,7 +24,7 @@ This simple simulation shows how I handle a user-submitted issue from start to f
 <h2>Working Ticket and Explanation</h2>
 
 <p>
-<img width="1596" height="896" alt="Image" src="https://github.com/user-attachments/assets/ef629a9c-6d55-4166-bef1-73d9bda0f60a" />
+<img width="1196" height="896" alt="Image" src="https://github.com/user-attachments/assets/ef629a9c-6d55-4166-bef1-73d9bda0f60a" />
 </p>
 <p>
 -In the ticket section in the Agent Panel, I can see a new ticket has been submitted by a user.
@@ -32,7 +32,7 @@ This simple simulation shows how I handle a user-submitted issue from start to f
 <br />
 
 <p>
-<img width="1426" height="802" alt="Image" src="https://github.com/user-attachments/assets/2789f98a-94af-4701-85ea-82d33a1bb949" />
+<img width="1126" height="802" alt="Image" src="https://github.com/user-attachments/assets/2789f98a-94af-4701-85ea-82d33a1bb949" />
 </p>
 <p>
 -After reading that the issue does not affect productivity, I set the priority level to low.
