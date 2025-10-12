@@ -12,6 +12,7 @@ This is an example where I solve a ticket in the help desk ticketing system osTi
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
@@ -45,36 +46,38 @@ This is an example where I solve a ticket in the help desk ticketing system osTi
 </p>
 <br />
 
-</p>
 <p>
 <img width="1426" height="802" alt="Image" src="https://github.com/user-attachments/assets/7dcc89c5-ee42-4c24-9be6-22a6b166e299" />
 </p>
 <p>
--After making the changes, I reply to the user asking basic questions to gain more information.
+-After making the changes, I reply to the user asking basic questions to gather more information.
 </p>
 <br />
 
+<p>
+<img width="1428" height="802" alt="Image" src="https://github.com/user-attachments/assets/fd8f7fc5-c0f0-4e04-9704-f5896b1d6f60" />
+</p>
+<br />
+-When the user replies, I follow up by giving the user steps to follow that can potentially help solving the issue.
+</p>
+
+<br />
+<img width="1428" height="803" alt="Image" src="https://github.com/user-attachments/assets/d9596381-fd7b-4796-ac40-7b63e88cf19b" />
+</p>
+<p>
+-After the issue is found and the user says he is okay with keeping his system as is, the ticket has come to an end.
+</p>
+<br />
+
+<p>
+<img width="1424" height="803" alt="Image" src="https://github.com/user-attachments/assets/379753ec-ffc5-4f94-b913-077550c5b7ff" />
+</p>
+<br />
+-To finalize, I change the status of the ticket to resolved and close it.
 </p>
 <p>
 
 </p>
 <br />
 
-</p>
-<p>
-
-</p>
-<br />
-
-</p>
-<p>
-
-</p>
-<br />
-
-</p>
-<p>
-
-</p>
-<br />
 <br />
