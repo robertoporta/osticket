@@ -58,7 +58,7 @@ This simple simulation shows how I handle a user-submitted issue from start to f
 <p>
 <img width="1128" height="802" alt="Image" src="https://github.com/user-attachments/assets/fd8f7fc5-c0f0-4e04-9704-f5896b1d6f60" />
 </p>
-<br />
+<p>
 -When the user replies, I follow up by giving the user steps to follow that can potentially help solving the issue.
 </p>
 
