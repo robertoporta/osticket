@@ -21,7 +21,7 @@ This simple simulation shows how I handle a user-submitted issue from start to f
 - Windows 10</b> (22H2)
 
 
-<h2>Working Ticket and Explanation</h2>
+<h2>Ticket Workflow and Resolution Process</h2>
 
 <p>
 <img width="1196" height="896" alt="Image" src="https://github.com/user-attachments/assets/ef629a9c-6d55-4166-bef1-73d9bda0f60a" />
