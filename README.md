@@ -12,13 +12,13 @@ This simple simulation shows how I handle a user-submitted issue from start to f
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure
-- Remote Desktop
-- Internet Information Services (IIS)
+- Remote Desktop (RDP)
 - osTicket
+- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 
 <h2>Working Ticket and Explanation</h2>
