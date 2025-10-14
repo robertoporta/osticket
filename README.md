@@ -77,3 +77,5 @@ This simple simulation shows how I handle a user-submitted issue from start to f
 - Finally, I change the ticket status to “Resolved” and close it. Properly closing tickets keeps the help desk system organized, ensures performance metrics stay accurate, and confirms that the issue has been officially completed.
 </p>
 <br />
+
+<br>
