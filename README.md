@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Solving a Ticket</h1>
+<h1>Solving a Ticket</h1>
 This is an example where I solve a ticket in the help desk ticketing system osTicket. 
 This simple simulation shows how I handle a user-submitted issue from start to finish, including reviewing the ticket, setting priorities, communicating with the user, and resolving the problem.
 
